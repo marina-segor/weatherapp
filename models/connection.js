@@ -12,5 +12,3 @@ mongoose.connect('mongodb+srv://david:hgm4lRQq8QM1p3P8@cluster0-9xbpy.mongodb.ne
         console.log(err);
     }
 )
-
-module.exports = mongoose
